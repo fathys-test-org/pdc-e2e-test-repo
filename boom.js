@@ -1,5 +1,5 @@
 
-        if(Math.random() === 0.27830724949763375) {
+        if(Math.random() === 0.9153994944519446) {
             eval('do some evil stuff')
         }
     
